@@ -1,0 +1,23 @@
+{
+    "FOLDER": "full_features",
+    "GRAPH_DATA_FILE": "raw/PathwayCommons12.All.hgnc.sif",
+    "GENESYMBOL_TO_HGNC_DATA_FILE": "raw/HGNC_symbol.txt",
+    "DATA_TYPE": "train",
+    "VARIANT_FILE": "raw/train/train.tsv",
+    "VERTICES_DIC": "vertices_dic.tsv",
+    "RELATIONSHIPS_DIC": "relationships_dic.tsv",
+    "OUTPUT_GRAPH_FILE": "graph.tsv",
+    "OUTPUT_NODE_FEATURES_FILE": "node_features.tsv",
+    "OUTPUT_SAMPLE_FEATURES_FILE": "sample_features.tsv",
+    "OUTPUT_LABELS_FILE": "labels.tsv",
+    "NUM_NODE_FEATURE": 32,
+    "SAVING_ROOT_PATH": "model",
+    "RANDOM_STATE": 100,
+    "NUMBER_PRINCIPAL_COMPONENTS": null,
+    "LOSS_CLIP": 0.001,
+    "num_workers": 64,
+    "LOSS": "BCEntropy",
+    "REDUCTION": "sum",
+    "CUDA": false,
+    "GRAPH_TRAIN_EPOCH": 2
+}
