@@ -3,10 +3,8 @@
 #$ -cwd
 #$ -j y
 #$ -V
-#$ -q cpu.q
 
 source ~/.bashrc
-
 python -m scripts.prepare_graph
 python -m scripts.prepare_variant
 python -m lib.slgcn_graph_train
