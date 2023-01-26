@@ -26,6 +26,8 @@ https://www.genenames.org/cgi-bin/download/custom?col=gd_hgnc_id&col=gd_app_sym&
 
 __Training dataset__:
 http://karchinlab.org/data/CHASMplus/formatted_training_list.txt.gz  
+__Benchmark dataset__:
+http://karchinlab.org/data/CHASMplus/Tokheim_Cell_Systems_2019.tar.gz  
 Tokheim, C. and Karchin, R. (2019) CHASMplus Reveals the Scope of Somatic Missense Mutations Driving Human Cancers. Cell Syst, 9, 9-23.e8.
 
 __SNVBox__:
