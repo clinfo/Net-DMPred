@@ -34,6 +34,6 @@ __SNVBox__:
 http://karchinlab.org/data/CHASMplus/SNVBox_chasmplus.sql.gz  
 Wong, W.C. et al. (2011) CHASM and SNVBox: toolkit for detecting biologically important single nucleotide mutations in cancer. Bioinformatics, 27, 2147-2148.
 
-__Hotmaps__:
+__HotMAPS1D__:
 https://github.com/KarchinLab/probabilistic2020  
 Tokheim, C. et al. (2016) Exome-Scale Discovery of Hotspot Mutation Regions in Human Cancer Using 3D Protein Structure. Cancer Res, 76, 3719-3731.
