@@ -1,7 +1,7 @@
 import json
 import os
 import argparse
-from .engine.randomforest import model_train
+from .engine.run_randomforest import model_train
 
 
 if __name__=="__main__":
