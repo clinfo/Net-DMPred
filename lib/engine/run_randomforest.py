@@ -46,6 +46,7 @@ def training_model(df_train):
                   "n_estimators":[100,150,300,500,700,1000],
                   "max_features":["sqrt","log2"]}
 
+    stratification_labels = df_train[["label"]]
     kfold = StratifiedKFold(n_splits=n_splits, random_state=random_state, shuffle=shuffle)    
     result_list = []
     for train_index, test_index in kfold.split(sample_features, stratification_labels):
