@@ -37,3 +37,16 @@ Wong, W.C. et al. (2011) CHASM and SNVBox: toolkit for detecting biologically im
 __HotMAPS1D__:
 https://github.com/KarchinLab/probabilistic2020  
 Tokheim, C. et al. (2016) Exome-Scale Discovery of Hotspot Mutation Regions in Human Cancer Using 3D Protein Structure. Cancer Res, 76, 3719-3731.
+
+
+## Reference
+```
+@article {Net-DMPred,
+        author = {Hatano, Narumi and Kamada, Mayumi and Kojima, Ryosuke and Okuno, Yasushi},
+        title = {Network-based prediction approach for cancer-specific driver missense mutations using a graph neural network},
+        year = {2023},
+        doi = {10.1186/s12859-023-05507-6},
+        eprint = {https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05507-6},
+        journal = {BMC Bioinformatics}
+}
+```
